@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "git config --global user.name \"Jahnavi\"\r git config --global user.email \"24wh1a05j0@bvrithyderabad.edu.in\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24wh1a05j0-sketch/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/24wh1a05j0-sketch/nodejs/issues"
+  },
+  "homepage": "https://github.com/24wh1a05j0-sketch/nodejs#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
