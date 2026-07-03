@@ -1,1 +1,3 @@
-#autosuggest
+
+git config --global user.name "Jahnavi"
+git config --global user.email "24wh1a05j0@bvrithyderabad.edu.in"
