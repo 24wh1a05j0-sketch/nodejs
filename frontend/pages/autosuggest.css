@@ -28,3 +28,9 @@ body{
      margin-left: 29%;
 
 }
+#suggestion-items{
+    border: 1px solid white ;
+    padding: 10px;
+    border-radius:10px;
+    
+}
